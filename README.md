@@ -54,7 +54,7 @@ Embedded_firmware_platform/
 │   ├── NonVolatileMemory.h
 │   ├── Protocol2.h
 │   └── Uart.h
-└── efp.X/
+└── Embedded_firmware_platform.X/
     ├── Makefile
     ├── build/
     ├── debug/
